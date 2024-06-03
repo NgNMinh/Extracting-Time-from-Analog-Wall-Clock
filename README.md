@@ -2,4 +2,5 @@
 Only using numpy and openCV
 # Image Required
 The clock must be centered in the image
-# Result
+# Example Result
+![Uploading image.png…]()
